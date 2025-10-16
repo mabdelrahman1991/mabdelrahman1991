@@ -36,7 +36,6 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Analyzed advertising efficiency and conversion rates for each platform.  
   - Found highest conversions on Google (1,504,650.00) and Facebook (1,500,820.00).  
   - Monitored performance by region (UAE, Saudi Arabia, Kuwait, Qatar, Egypt) and classified campaigns as Successful, Moderate, or Failed.  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
 
 ---
 
@@ -47,7 +46,7 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Identified total revenue (1.583M) and total quantities (406).  
   - Found the top product: Interior wall paint contributing 65.3% of revenue.  
   - Tracked sales by client (Jazeera Paints, Jerusalem Paints) and categorized products by sales count.  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
+- **Live Dashboard:** [(https://app.powerbi.com/links/jtCM35tC8S?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)]
 
 ---
 
@@ -58,7 +57,7 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Tracked total incidents and lost days.  
   - Identified high-risk areas such as the materials warehouse and construction site.  
   - Analyzed injury distribution by department (Maintenance, Production, Management) and tracked incident status (Under Investigation, Treated, Closed).  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
+- **Live Dashboard:** [(https://app.powerbi.com/links/d-h4-4mvss?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)]
 
 ---
 
@@ -69,7 +68,7 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Determined top customer sources: Website (21%), Instagram (20.7%), and Facebook (20.3%).  
   - Monitored delivery progress: Delivered (36%), In-progress (32%), and Canceled (32%).  
   - Calculated average delivery time (1000 days).  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
+- **Live Dashboard:** [(https://app.powerbi.com/links/R2_ObwuV9X?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)]
 
 ---
 
@@ -80,7 +79,7 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Measured delivery rate and average trip time for each driver.  
   - Key metrics: Average cost per trip (83), Customer rating (3), and Completion rate (85%).  
   - Identified top demand areas: Maadi, Agamy, Haram, and Alexandria.  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
 
 ---
 
@@ -90,7 +89,7 @@ These dashboards represent real-world applications in marketing, finance, safety
 - **Key Achievements:**  
   - Highlighted best-selling products (e.g., Wardrobe, Bed, Table).  
   - Mapped high-demand regions such as Alexandria, Mansoura, and Tanta based on delivered quantities.  
-- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
 
 ---
 
