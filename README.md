@@ -1,8 +1,10 @@
-# Data Analysis & Geo-Spatial Portfolio | Dr. Mohammed Soliman
+# 🧭 Data Analysis & Geo-Spatial Portfolio | Dr. Mohammed Soliman
 
 ## 🧑‍💻 Professional Profile Summary
 
-A highly dedicated professional with a Ph.D. in Structural Geology and over 10 years of experience in the field, currently leveraging advanced expertise in **Data Analysis** and **Geo-Spatial Modeling**. [cite_start]I combine rigorous academic discipline and practical field experience with proficiency in data manipulation and visualization tools (Power BI, SQL, Advanced Excel) to translate complex geological, hydrological, and operational data into clear, actionable business insights[cite: 3, 5, 98]. My goal is to bridge the gap between scientific data and strategic decision-making.
+A highly dedicated professional with a Ph.D. in **Structural Geology and Remote Sensing (GIS)** and over 10 years of academic and applied experience.  
+Currently leveraging advanced expertise in **Data Analysis** and **Geo-Spatial Modeling**, I combine rigorous research discipline and field experience with strong proficiency in **Power BI, Power Query, SQL, and Advanced Excel** to translate complex geological, hydrological, and operational datasets into clear, actionable business insights.  
+My goal is to bridge the gap between scientific data and strategic decision-making.
 
 ---
 
@@ -10,40 +12,85 @@ A highly dedicated professional with a Ph.D. in Structural Geology and over 10 y
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Data Visualization & BI** | [cite_start]Microsoft Power BI, Interactive Dashboard Design, Data Storytelling[cite: 21, 56]. |
-| **Data Handling & Analytics**| [cite_start]Advanced Microsoft Excel (Power Query, PivotTables, VLOOKUP/Index-Match) [cite: 15, 21, 47][cite_start], SQL (Querying, Filtering, Aggregation)[cite: 16, 21, 49]. |
-| **Geo-Spatial & Remote Sensing** | [cite_start]GIS (ArcGIS, Global Mapper) [cite: 43, 125, 221][cite_start], ENVI [cite: 221][cite_start], Hydrological Modeling (HEC-HMS) [cite: 214, 216][cite_start], Satellite Imagery Processing (Landsat, Sentinel)[cite: 162, 219]. |
-| **Field Expertise** | [cite_start]Surveying (GPS, GNSS, Total Station) [cite: 41, 60, 124][cite_start], Mineral Exploration [cite: 167][cite_start], Site Management[cite: 179]. |
+| **Data Visualization & BI** | Power BI, Power Query, Interactive Dashboard Design, Data Storytelling |
+| **Data Handling & Analytics** | Advanced Excel (PivotTables, Index-Match, Power Query), SQL (Querying, Filtering, Aggregation) |
+| **Geo-Spatial & Remote Sensing** | ArcGIS, Global Mapper, ENVI, HEC-HMS, Satellite Imagery Processing (Landsat, Sentinel) |
+| **Field Expertise** | Surveying (GPS, GNSS, Total Station), Mineral Exploration, Site Management |
 
 ---
 
-## 🚀 Data Analysis Projects (Portfolio Showcase)
+## 📘 Portfolio Overview
 
-*(Please replace the bracketed text with your project details and live links)*
+This portfolio showcases a collection of interactive dashboards and analytical projects developed using **Power BI, Power Query, Excel, and SQL**.  
+Each project demonstrates my ability to transform raw data into actionable insights through visualization, automation, and storytelling.  
+These dashboards represent real-world applications in marketing, finance, safety, logistics, and operations.
 
-### **1. Hydrological Risk Assessment using Power BI & GIS Data**
-* [cite_start]**Goal:** To create an interactive dashboard analyzing historical rainfall and Digital Elevation Model (DEM) data to map flood hazard zones and optimize watershed management strategies[cite: 45, 214, 215].
-* [cite_start]**Tools Used:** Power BI [cite: 56][cite_start], Power Query [cite: 55][cite_start], ArcGIS/DEM Data [cite: 215][cite_start], HEC-HMS[cite: 216].
-* [cite_start]**Key Achievements:** Applied modeling for major national projects including New Qena City, Assiut City, and Thebes City[cite: 214].
-* **Live Dashboard Link:** [Place your published Power BI Service Link here]
+---
 
-### **2. Operational Efficiency of Mining Excavation using SQL and Excel**
-* [cite_start]**Goal:** Process and analyze large operational datasets (e.g., from over 5,000 meters of trench development [cite: 176]) to assess project timelines, resource allocation, and cost efficiency.
-* [cite_start]**Tools Used:** Advanced Microsoft Excel [cite: 15, 47][cite_start], SQL [cite: 16, 49][cite_start], Power Query[cite: 19, 55].
-* [cite_start]**Key Achievements:** Developed automated reporting templates that reduced manual reporting effort and minimized errors[cite: 17, 57].
-* **Project Documentation/Code:** [Place a link to your detailed documentation/GitHub Gist here]
+## 🚀 Power BI & Data Analysis Projects
 
-### **3. Geo-Structural Analysis and Mineralization Mapping with Remote Sensing**
-* [cite_start]**Goal:** Utilize satellite imagery (Landsat-8 & Sentinel-2A) for lithological discrimination and lineament extraction to map structural controls on Uranium mineralization (based on your Ph.D. research)[cite: 79, 81, 162].
-* [cite_start]**Tools Used:** ENVI [cite: 221][cite_start], PCI Geomatica [cite: 226][cite_start], GIS [cite: 58][cite_start], Remote Sensing Techniques[cite: 39, 58].
-* [cite_start]**Key Achievements:** Published the findings in peer-reviewed journals, focusing on areas like Gabal Abu Hamr and Gabal Abu Kharif[cite: 79, 81].
-* **Publication Link:** [Place a link to the published article]
+### 📊 **1. Social Media Dashboard**
+- **Goal:** Track and analyze advertising spend, engagement, clicks, and conversions across multiple platforms (Google, Facebook, YouTube, Instagram, Twitter), comparing performance by country and month.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Analyzed advertising efficiency and conversion rates for each platform.  
+  - Found highest conversions on Google (1,504,650.00) and Facebook (1,500,820.00).  
+  - Monitored performance by region (UAE, Saudi Arabia, Kuwait, Qatar, Egypt) and classified campaigns as Successful, Moderate, or Failed.  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
 
-### **4. [Project Title: Your 4th Strongest Project Idea]**
-* **Goal:** [A clear and specific objective for this project]
-* **Tools Used:** [List the main tools, e.g., Power BI, SQL]
-* **Key Achievements:** [What did you achieve or find?]
-* **Live Dashboard/Link:** [Place the relevant link here]
+---
+
+### 💰 **2. Cash Flow Dashboard**
+- **Goal:** Analyze total revenue and quantities sold by product type to determine each product’s contribution to total company income.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Identified total revenue (1.583M) and total quantities (406).  
+  - Found the top product: Interior wall paint contributing 65.3% of revenue.  
+  - Tracked sales by client (Jazeera Paints, Jerusalem Paints) and categorized products by sales count.  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
+---
+
+### 🦺 **3. HSE (Health, Safety & Environment) Dashboard**
+- **Goal:** Monitor and analyze workplace incidents and injuries by zone and danger type to evaluate operational risks.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Tracked total incidents and lost days.  
+  - Identified high-risk areas such as the materials warehouse and construction site.  
+  - Analyzed injury distribution by department (Maintenance, Production, Management) and tracked incident status (Under Investigation, Treated, Closed).  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
+---
+
+### 🛒 **4. Sales Operations & Platform Dashboard**
+- **Goal:** Analyze customer sources (geographical and digital platforms) and track delivery status and payment methods.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Determined top customer sources: Website (21%), Instagram (20.7%), and Facebook (20.3%).  
+  - Monitored delivery progress: Delivered (36%), In-progress (32%), and Canceled (32%).  
+  - Calculated average delivery time (1000 days).  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
+---
+
+### 🚚 **5. Driver Performance & Delivery Rate Dashboard**
+- **Goal:** Evaluate driver efficiency by monitoring delivery rates and trip durations to identify top-performing and low-performing drivers.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Measured delivery rate and average trip time for each driver.  
+  - Key metrics: Average cost per trip (83), Customer rating (3), and Completion rate (85%).  
+  - Identified top demand areas: Maadi, Agamy, Haram, and Alexandria.  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
+
+---
+
+### 🏷️ **6. Product and Top Demand Area Analysis**
+- **Goal:** Identify top-selling products by quantity and analyze the geographical distribution of customer demand.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Highlighted best-selling products (e.g., Wardrobe, Bed, Table).  
+  - Mapped high-demand regions such as Alexandria, Mansoura, and Tanta based on delivered quantities.  
+- **Live Dashboard:** [🔗 Add Power BI Link Here]
 
 ---
 
@@ -51,9 +98,9 @@ A highly dedicated professional with a Ph.D. in Structural Geology and over 10 y
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [cite_start]`https://www.linkedin.com/in/dr-mohammed-soliman-18560583/` [cite: 87] |
-| **ResearchGate** | [cite_start]`https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf` [cite: 89] |
-| **Google Scholar** | [cite_start]`https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ` [cite: 92] |
-| **Email** | [cite_start]`mabdelrahman1991@yahoo.com` [cite: 2] |
+| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-18560583](https://www.linkedin.com/in/dr-mohammed-soliman-18560583/) |
+| **ResearchGate** | [researchgate.net/profile/Mohammed-A-Soliman](https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf) |
+| **Google Scholar** | [scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ](https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ) |
+| **Email** | mabdelrahman1991@yahoo.com |
 
 ---
