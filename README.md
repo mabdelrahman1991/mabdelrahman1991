@@ -80,7 +80,6 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Key metrics: Average cost per trip (83), Customer rating (3), and Completion rate (85%).  
   - Identified top demand areas: Maadi, Agamy, Haram, and Alexandria.  
 
-
 ---
 
 ### 🏷️ **6. Product and Top Demand Area Analysis**
@@ -90,6 +89,17 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Highlighted best-selling products (e.g., Wardrobe, Bed, Table).  
   - Mapped high-demand regions such as Alexandria, Mansoura, and Tanta based on delivered quantities.  
 
+---
+
+### 👥 **7. HR Dashboard**
+- **Category:** Business Intelligence / Human Resources Analytics  
+- **Goal:** Analyze employee demographics, salary distribution, and departmental performance to support HR decision-making and workforce planning.  
+- **Tools Used:** Power BI, Power Query, Excel, SQL  
+- **Key Achievements:**  
+  - Visualized gender distribution, employee count by department, and branch allocation.  
+  - Compared total and average salaries across departments to identify pay structure patterns.  
+  - Enabled HR teams to monitor workforce diversity, compensation, and departmental performance in real time.  
+- **Dashboard Preview:** [https://app.powerbi.com/links/Ly009Zs7ad?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare]
 
 ---
 
