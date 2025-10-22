@@ -93,7 +93,10 @@ These dashboards represent real-world applications in marketing, finance, safety
 - **Key Achievements:**  
   - Measured delivery rate and average trip time for each driver.  
   - Key metrics: Average cost per trip (83), Customer rating (3), and Completion rate (85%).  
-  - Identified top demand areas: Maadi, Agamy, Haram, and Alexandria.  
+  - Identified top demand areas: Maadi, Agamy, Haram, and Alexandria.
+  - #### 🖼️ **Dashboard Preview**
+
+![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/InDrive%20DB.jpg)
 
 ---
 
@@ -103,9 +106,6 @@ These dashboards represent real-world applications in marketing, finance, safety
 - **Key Achievements:**  
   - Highlighted best-selling products (e.g., Wardrobe, Bed, Table).  
   - Mapped high-demand regions such as Alexandria, Mansoura, and Tanta based on delivered quantities.  
- #### 🖼️ **Dashboard Preview**
-
-![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/InDrive%20DB.jpg)
 
 ---
 
@@ -116,8 +116,8 @@ These dashboards represent real-world applications in marketing, finance, safety
 - **Key Achievements:**  
   - Visualized gender distribution, employee count by department, and branch allocation.  
   - Compared total and average salaries across departments to identify pay structure patterns.  
-  - Enabled HR teams to monitor workforce diversity, compensation, and departmental performance in real time.  
--#### 🖼️ **Dashboard Preview**
+  - Enabled HR teams to monitor workforce diversity, compensation, and departmental performance in real time.
+  -#### 🖼️ **Dashboard Preview**
 
 ![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/HR%20Dashboard.jpg)
 
