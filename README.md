@@ -101,7 +101,7 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Enabled HR teams to monitor workforce diversity, compensation, and departmental performance in real time.  
 -#### 🖼️ **Dashboard Preview**
 
-![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/hr_dashboard.png?raw=true)
+![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/HR%20Dashboard.jpg)
 
 [🔗 **View Interactive Dashboard on Power BI**](https://app.powerbi.com/links/Ly009Zs7ad?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)
 
