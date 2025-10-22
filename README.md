@@ -99,10 +99,17 @@ These dashboards represent real-world applications in marketing, finance, safety
   - Visualized gender distribution, employee count by department, and branch allocation.  
   - Compared total and average salaries across departments to identify pay structure patterns.  
   - Enabled HR teams to monitor workforce diversity, compensation, and departmental performance in real time.  
-- **Dashboard Preview:**
-  -[HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/HR%20Dashboard.jpg)
-  -**View Interactive Dashboard on Power BI** [https://app.powerbi.com/links/Ly009Zs7ad?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare]
-  -**Python Script** [https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/python_scripts/hr_data_cleaning.py]
+-#### 🖼️ **Dashboard Preview**
+
+![HR Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/hr_dashboard.png?raw=true)
+
+[🔗 **View Interactive Dashboard on Power BI**](https://app.powerbi.com/links/Ly009Zs7ad?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)
+
+#### 🧠 **Python Script**
+
+[📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/python_scripts/hr_data_cleaning.py)
+
+
 ---
 
 ## 📞 Connect with Me
