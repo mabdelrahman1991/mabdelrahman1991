@@ -85,6 +85,10 @@ These dashboards represent real-world applications in marketing, finance, safety
 
 [🔗 **View Interactive Dashboard on Power BI**](https://app.powerbi.com/links/R2_ObwuV9X?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)
 
+#### 🧠 **Python Script**
+
+[📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/python_scripts/Sales_Data_Analysis.py)
+
 ---
 
 ### 🚚 **5. Driver Performance & Delivery Rate Dashboard**
