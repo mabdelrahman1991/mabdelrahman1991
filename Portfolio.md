@@ -89,6 +89,10 @@ These dashboards represent real-world applications in marketing, finance, safety
 
 [📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/python_scripts/Sales_Data_Analysis.py)
 
+#### 🧠 **SQL Script**
+
+[📄 **View Data Cleaning & Preprocessing Code**] (https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/SQL_sripts/Sales_Data_Analysis.sql)
+
 ---
 
 ### 🚚 **5. Driver Performance & Delivery Rate Dashboard**
