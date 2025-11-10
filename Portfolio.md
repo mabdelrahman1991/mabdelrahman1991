@@ -91,7 +91,7 @@ These dashboards represent real-world applications in marketing, finance, safety
 
 #### 🧠 **SQL Script**
 
-[📄 **View Data Cleaning & Preprocessing Code**] (https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/SQL_sripts/Sales_Data_Analysis.sql)
+[📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/SQL_sripts/Sales_Data_Analysis.sql)
 
 ---
 
