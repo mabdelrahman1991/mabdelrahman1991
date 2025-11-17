@@ -180,30 +180,12 @@ The solution covers data cleaning, modeling, and dashboard development to help d
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-18560583](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/) |
+| **LinkedIn** | (https://www.linkedin.com/in/dr-mohammed-soliman-204692395/) |
 | **ResearchGate** | [researchgate.net/profile/Mohammed-A-Soliman](https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf) |
 | **Google Scholar** | [scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ](https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ) |
 | **Email** | mabdelrahman1991@yahoo.com |
 
 
-### 🔗 Contact & Profiles
 
-| Platform | Link |
-| :--- | :--- |
-| **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]** | [linkedin.com/in/dr-mohammed-soliman-18560583](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/) |
-| **ResearchGate** | [researchgate.net/profile/Mohammed-A-Soliman](https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf) |
-| **Google Scholar** | [scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ](https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ) |
-| **Email** | mabdelrahman1991@yahoo.com |
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](YOUR_LINK_HERE)
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_LINK_HERE)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER_HERE)
 
 ---
