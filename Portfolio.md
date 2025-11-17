@@ -196,8 +196,6 @@ The solution covers data cleaning, modeling, and dashboard development to help d
 | **Email** | mabdelrahman1991@yahoo.com |
 
 
-| Platform | Link |
-| :--- | :--- |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/)
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](YOUR_LINK_HERE)
