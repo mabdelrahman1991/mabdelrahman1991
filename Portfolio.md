@@ -137,34 +137,30 @@ These dashboards represent real-world applications in marketing, finance, safety
 
 
 ---
-# 📦 Facility Maintenance Data Processing (BI Case Study)
 
-## 🚀 Overview
-This project delivers a complete end-to-end BI workflow for processing and analyzing facility maintenance operations.  
-The solution covers data cleaning, modeling, and dashboard development to help decision makers understand maintenance cost, equipment reliability, and energy performance across multiple locations.
-
-  ## 🎯 Objectives
+### 📦 **8. Facility Maintenance Data Processing (BI Case Study)**
+- **Overview:** This project delivers a complete end-to-end BI workflow for processing and analyzing facility maintenance operations.  
+The solution covers data cleaning, modeling, and dashboard development to help decision makers understand maintenance cost, equipment reliability, and energy performance across multiple locations. 
+- **Objectives:**
   - Clean and standardize raw maintenance data  
   - Build a structured date model for timeline analysis  
   - Identify high-cost locations and equipment  
   - Evaluate failure rate patterns and maintenance efficiency  
-  - Deliver actionable insights and recommendations through Power BI  
-
-  ## 🛠 Tools & Technologies
+  - Deliver actionable insights and recommendations through Power BI 
+- **Tools & Technologies:**
   - **PostgreSQL** — Data cleaning & transformation  
   - **Python (Pandas)** — CSV export (UTF-8-SIG)  
   - **Power BI** — Data modeling, DAX, dashboards  
   - **GitHub** — Version control  
-  - **DAX** — Measures & time intelligence  
-
-  ## 🧹 Data Cleaning (SQL)
-  Cleaning and preparation included:
+  - **DAX** — Measures & time intelligence
+- **Data Cleaning (SQL):**  
+   Cleaning and preparation included:
   - Standardizing date formats  
   - Removing null & corrupted rows  
   - Validating numerical fields (cost, duration, failure rate)  
   - Correcting negative durations  
   - Exporting the cleaned dataset using Python with UTF-8-SIG encoding  
-  
+
   - #### 🖼️ **Dashboard Preview**
 ![Facility Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Facility_Page%201.png)
 
@@ -180,10 +176,6 @@ The solution covers data cleaning, modeling, and dashboard development to help d
 
 ---
 
-
-
-
----
 ## 📞 Connect with Me
 
 | Platform | Link |
