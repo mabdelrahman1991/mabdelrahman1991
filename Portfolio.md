@@ -137,12 +137,58 @@ These dashboards represent real-world applications in marketing, finance, safety
 
 
 ---
+# 📦 Facility Maintenance Data Processing (BI Case Study)
 
+## 🚀 Overview
+This project delivers a complete end-to-end BI workflow for processing and analyzing facility maintenance operations.  
+The solution covers data cleaning, modeling, and dashboard development to help decision makers understand maintenance cost, equipment reliability, and energy performance across multiple locations.
+
+  ## 🎯 Objectives
+  - Clean and standardize raw maintenance data  
+  - Build a structured date model for timeline analysis  
+  - Identify high-cost locations and equipment  
+  - Evaluate failure rate patterns and maintenance efficiency  
+  - Deliver actionable insights and recommendations through Power BI  
+
+  ## 🛠 Tools & Technologies
+  - **PostgreSQL** — Data cleaning & transformation  
+  - **Python (Pandas)** — CSV export (UTF-8-SIG)  
+  - **Power BI** — Data modeling, DAX, dashboards  
+  - **GitHub** — Version control  
+  - **DAX** — Measures & time intelligence  
+
+  ## 🧹 Data Cleaning (SQL)
+  Cleaning and preparation included:
+  - Standardizing date formats  
+  - Removing null & corrupted rows  
+  - Validating numerical fields (cost, duration, failure rate)  
+  - Correcting negative durations  
+  - Exporting the cleaned dataset using Python with UTF-8-SIG encoding  
+  
+  - #### 🖼️ **Dashboard Preview**
+![Facility Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Facility_Page%201.png)
+
+![Facility Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Faciliy_Page%202.png)
+
+![Facility Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Facility_Page%203.png)
+
+[🔗 **View Interactive Dashboard on Power BI**](https://app.powerbi.com/links/lMzBLLwC4e?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)
+
+#### 🧠 **SQL Script**
+
+[📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/SQL_sripts/Facility_%20Maintenance%20Data%20Processing.sql)
+
+---
+
+
+
+
+---
 ## 📞 Connect with Me
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-18560583](https://www.linkedin.com/in/dr-mohammed-soliman-18560583/) |
+| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-18560583](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/) |
 | **ResearchGate** | [researchgate.net/profile/Mohammed-A-Soliman](https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf) |
 | **Google Scholar** | [scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ](https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ) |
 | **Email** | mabdelrahman1991@yahoo.com |
