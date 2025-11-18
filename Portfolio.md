@@ -2,8 +2,7 @@
 
 ## 🧑‍💻 Professional Profile Summary
 
-A highly dedicated professional with a Ph.D. in **Structural Geology and Remote Sensing (GIS)** and over 10 years of academic and applied experience.  
-Currently leveraging advanced expertise in **Data Analysis** and **Geo-Spatial Modeling**, I combine rigorous research discipline and field experience with strong proficiency in **Power BI, Power Query, SQL, and Advanced Excel** to translate complex geological, hydrological, and operational datasets into clear, actionable business insights.  
+Ph.D. in Structural Geology and Remote Sensing transitioning into Data Analysis and Business Intelligence, with strong presentation and content visualization skills, including Photoshop and Filmora for creating professional dashboard previews and analysis explainer videos. Over 10 years of academic and field experience handling large, multi-source datasets and producing actionable insights for operational and research stakeholders. Skilled in Power BI, Power Query, Advanced Excel, SQL and Python to deliver automated reporting, interactive dashboards, and geo‑spatial analyses that support decision-making.
 My goal is to bridge the gap between scientific data and strategic decision-making.
 
 ---
