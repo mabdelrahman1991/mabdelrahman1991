@@ -13,7 +13,7 @@ My goal is to bridge the gap between scientific data and strategic decision-maki
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Data Visualization & BI** | Power BI, Power Query, Interactive Dashboard Design, Data Storytelling |
-| **Data Handling & Analytics** | Advanced Excel (PivotTables, Index-Match, Power Query), SQL (Querying, Filtering, Aggregation) |
+| **Data Handling & Analytics** | Advanced Excel (PivotTables, Index-Match, Power Query), SQL (Querying, Filtering, Aggregation), Python (Data cleaning, Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn) | 
 | **Geo-Spatial & Remote Sensing** | ArcGIS, Global Mapper, ENVI, HEC-HMS, Satellite Imagery Processing (Landsat, Sentinel) |
 | **Field Expertise** | Surveying (GPS, GNSS, Total Station), Mineral Exploration, Site Management |
 
