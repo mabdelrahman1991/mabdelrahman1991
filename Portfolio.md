@@ -179,7 +179,7 @@ The solution covers data cleaning, modeling, and dashboard development to help d
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-204692395](https://www.linkedin.com/in/dr-mohammed-soliman-204692395/) |
+| **LinkedIn** | [linkedin.com/in/dr-mohammed-soliman-204692395](https://www.linkedin.com/in/mohammed-soliman-204692395/) |
 | **ResearchGate** | [researchgate.net/profile/Mohammed-A-Soliman](https://www.researchgate.net/profile/Mohammed-A-Soliman?ev=hdr_xprf) |
 | **Google Scholar** | [scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ](https://scholar.google.com/citations?hl=en&user=D4gG0pkAAAAJ) |
 | **Email** | mabdelrahman1991@yahoo.com |
