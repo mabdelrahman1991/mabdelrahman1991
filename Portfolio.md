@@ -175,6 +175,51 @@ The solution covers data cleaning, modeling, and dashboard development to help d
 
 ---
 
+### 📦 **9. Hotel Revenue Analytics 
+
+## Overview
+BI project analyzing **2018–2020 hotel booking and revenue data**.  
+Includes **SQL data cleaning**, **Power BI modeling**, and **interactive dashboards** for revenue trends, customer segments, and booking patterns.
+
+## Tools
+- **PostgreSQL** – Data cleaning & integration  
+- **Power BI & DAX** – Analytics & dashboard  
+- **CSV** – Reference tables  
+
+## Workflow
+1. **Data Cleaning:** Standardized dates, fixed NULLs, validated numeric fields  
+2. **Integration:** Merged meal cost & market segment discounts into `hotel_revenue_all`  
+3. **Modeling:** Star-schema design, DAX measures for revenue, profit, segment share  
+4. **Dashboard:** Revenue trends, hotel types, customer distribution, meal & segment analysis  
+
+## Key Insights
+- Peak revenue in **summer (Jun–Aug)**  
+- **2019** highest revenue; decline in 2020  
+- **City Hotels > Resort Hotels**  
+- **OTAs** drive most bookings  
+
+## Recommendations
+- Focus marketing on peak months  
+- Optimize OTA commissions & direct bookings  
+- Improve cancellation policies  
+- Target family & corporate segments  
+
+- #### 🖼️ **Dashboard Preview**
+![Hotel Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Screenshot_1.png)
+
+![Hotel Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Screenshot_2.png)
+
+![Hotel Dashboard](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/dashboards_images/Screenshot_3.png)
+
+[🔗 **View Interactive Dashboard on Power BI**](https://app.powerbi.com/links/mOLEeC_qY2?ctid=6bf95165-4113-4188-9b7b-cb6c0c198a5b&pbi_source=linkShare)
+
+#### 🧠 **SQL Script**
+
+[📄 **View Data Cleaning & Preprocessing Code**](https://github.com/mabdelrahman1991/mabdelrahman1991/blob/main/SQL_sripts/Hotel_Revenue.sql)
+
+
+---
+
 ## 📞 Connect with Me
 
 | Platform | Link |
